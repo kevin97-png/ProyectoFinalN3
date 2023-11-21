@@ -1,5 +1,5 @@
-# universidad
-pagina para una universidad
+# Universidad
+Pagina para una Universidad
 
 usuarios:
 correo:
@@ -38,11 +38,6 @@ ALUMNO:
 2 Puede inscribirsee en una clase.
 
 
-COSAS A MEJORAR QUE DEJO EL PROFESOR.
-
-El archivo index.php debe estar en la raíz del proyecto. 
-listo
-
 Si la contraseña es incorrecta debes manejar ese error de mejor forma. 
 listo
 
@@ -65,8 +60,4 @@ El programa no le permite a ningún usuario editar su propio perfil.
 listo
 
 
-DARK MODE:
-Le agregue un boton de dark mode 
-le aplique un poco de css y tailwind tambien y javascript
-por el tiempo no puede que este en la posicion donde deberia estar 
-///***///
+
